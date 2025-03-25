@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Pasta",
+    "ingredients": ["tomato", "cheese"],
+    "price": 5
+  },
+  {
+    "id": 2,
+    "name": "Salad",
+    "ingredients": ["lettuce", "carrot"],
+    "price": 3
+  }
+]
